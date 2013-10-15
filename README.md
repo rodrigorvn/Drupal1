@@ -2,3 +2,6 @@ Drupal1
 =======
 
 Curso de Drupal 1
+
+ESTA ES UNA MODIFICACION DEL CURSO
+ESTO ESTA EN LINEA
